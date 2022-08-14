@@ -4,3 +4,4 @@ version = 1.8.3
 hideCode = true
 includeSource = false
 hideResources = true
+patchNotes = "Added new version checker."
