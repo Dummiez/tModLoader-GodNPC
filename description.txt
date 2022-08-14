@@ -1,0 +1,76 @@
+[c/ff9eb4:Better Friendly NPCs] is a mod aimed for [c/ff9eb4:more stat customization] for Town NPCs! You can now have competent townsfolk defending themselves from the evils that await your journey, or just straight up make them invincible! Also improves upon vanilla scaling NPCs.
+
+[c/ff9eb4:Changelog:]
+[c/f5ffc7:v1.8.3 (14/08/2022)]
+• Added new version checker.
+[c/f5ffc7:v1.8.2 (08/06/2022)]
+• Emote indication for Town NPCs when resting/returning home.
+• Fixed an issue with Boss Checklist compatibility.
+• Projectile Speed Default config adjusted.
+[c/f5ffc7:v1.8.1 (02/06/2022)]
+• Stable release update.
+[c/f5ffc7:v1.8.0 (12/05/2022)]
+• Boss Checklist integration support, scale with modded bosses!
+• Scaling armor/damage has been revamped, balance changes.
+• Town NPCs now have the following features:
+➤ Soft/hard return home when health is below 50/20 percent.
+➤ Up to 50% damage reduction when near/at their home.
+➤ Life regen is doubled while resting/idle at home.
+[c/f5ffc7:v1.7.2 (10/05/2022)]
+• Nurse syringe healing effect now scale with NPC damage.
+• NPCs immune to traps config now prevents drowning.
+[c/f5ffc7:v1.7 (07/05/2022)]
+• Town NPCs can now critically strike back upon taking damage!
+• Updated boss list for damage/defense scaling.
+• Even more balancing changes for default config.
+• Minor bug fixes.
+[c/f5ffc7:v1.6.5 (03/05/2022)]
+• Major balancing changes for default config.
+[c/f5ffc7:v1.6.4 (01/05/2022)]
+• Stable release update.
+[c/f5ffc7:v1.6.3 (14/11/2021)]
+• Updated to .NET Runtime 6.0.0
+[c/f5ffc7:v1.6.2 (27/10/2021)]
+• Fixed an issue with NPC damage not applying 50% effectiveness in non-master mode.
+[c/f5ffc7:v1.6.1 (21/09/2021)]
+• Fixed an issue with in-game config not working in servers.
+[c/f5ffc7:v1.6 (14/09/2021)]
+• Added basic localization support (DeepL) for the available languages. If you would like to improve these, feel free to leave a comment on the Steam page.
+• Minor bug fixes.
+[c/f5ffc7:v1.5.4 (06/09/2021)]
+• Default config balancing and minor bug fixes.
+• Updated mod icon.
+[c/f5ffc7:v1.5.2 (15/08/2021)]
+• Added option to make Town Pets invincible.
+• Added debug mode for testing.
+• Attack Speed Default config adjusted.
+[c/f5ffc7:v1.5.1 ~]
+• Default config balancing.
+• Fixed another issue with Dryad's attack.
+[c/f5ffc7:v1.5 ~]
+• Complete rework of NPC stats and scaling.
+• Added 11 new configs for NPC stats and interaction.
+• Added HERO's Mod permission support.
+• Fixed an issue with the Dryad no longer attacking.
+[c/f5ffc7:v1.4.2 (12/08/2021)]
+• Added NPC Attack knockback config.
+• Added Skeleton Merchant to list of affected NPCs.
+[c/f5ffc7:v1.4.1 ~]
+• Adjusted min/max values for some stats.
+• Fixed an issue with in-game config not properly updating.
+[c/f5ffc7:v1.4 (08/08/2021)]
+• Added option to make NPCs invincible to enemies.
+• Custom settings for NPC stats added!
+[c/f5ffc7:v1.3 ~]
+- Fixed an issue with the mod not loading on newer versions.
+[c/f5ffc7:v1.2 ~]
+• Major balancing changes.
+• Attack cooldown of NPCs have been adjusted (more pew pew!).
+• Multiplayer compatible.
+[c/f5ffc7:v1.1 ~]
+• Minor balancing changes.
+• NPC stats are 50% less effective on non-Master worlds.
+[c/f5ffc7:v1.0 (07/08/2021)]
+• Initial release.
+
+Any other feedback is welcome, thanks for checking out this mod!

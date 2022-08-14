@@ -1,0 +1,6 @@
+displayName = Better Friendly NPCs
+author = Aitherix
+version = 1.8.3
+hideCode = true
+includeSource = false
+hideResources = true
