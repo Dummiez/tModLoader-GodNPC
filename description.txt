@@ -1,6 +1,12 @@
 [c/ff9eb4:Better Friendly NPCs] is a mod aimed for [c/ff9eb4:more stat customization] for Town NPCs! You can now have competent townsfolk defending themselves from the evils that await your journey, or just straight up make them invincible! Also improves upon vanilla scaling NPCs.
 
 [c/ff9eb4:Changelog:]
+[c/f5ffc7:v1.8.6 (22/08/2023)]
+• Fixed damage reduction not correctly applying to NPCs.
+[c/f5ffc7:v1.8.5 (26/05/2023)]
+• Localization fixes update.
+[c/f5ffc7:v1.8.4 (13/05/2023)]
+• Compatibility update to v1.4.4.
 [c/f5ffc7:v1.8.3 (14/08/2022)]
 • Added new version checker.
 [c/f5ffc7:v1.8.2 (08/06/2022)]
