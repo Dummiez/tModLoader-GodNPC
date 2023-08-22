@@ -1,7 +1,7 @@
 displayName = Better Friendly NPCs
 author = Aitherix
-version = 1.8.3
+version = 1.8.6
 hideCode = true
 includeSource = false
 hideResources = true
-patchNotes = "Added new version checker."
+patchNotes = "Compatibility update to v1.4.4."
